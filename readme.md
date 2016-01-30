@@ -1,3 +1,3 @@
 # donejs-chat
 
-A repo to save my work as I work thru the DoneJS quick Start Guide.
+A repo to save my work as I progress thru the DoneJS quick Start Guide.
